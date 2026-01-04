@@ -1,0 +1,44 @@
+[
+  {
+    "pin": "2",
+    "pinType": "digitalInput",
+    "address": "%IX0.0",
+    "name": ""
+  },
+  {
+    "pin": "3",
+    "pinType": "digitalInput",
+    "address": "%IX0.1",
+    "name": ""
+  },
+  {
+    "pin": "4",
+    "pinType": "digitalInput",
+    "address": "%IX0.2",
+    "name": ""
+  },
+  {
+    "pin": "5",
+    "pinType": "digitalInput",
+    "address": "%IX0.3",
+    "name": ""
+  },
+  {
+    "pin": "7",
+    "pinType": "digitalOutput",
+    "address": "%QX0.0",
+    "name": ""
+  },
+  {
+    "pin": "8",
+    "pinType": "digitalOutput",
+    "address": "%QX0.1",
+    "name": ""
+  },
+  {
+    "pin": "12",
+    "pinType": "digitalOutput",
+    "address": "%QX0.2",
+    "name": ""
+  }
+]
