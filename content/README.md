@@ -18,7 +18,7 @@ https://openplcproject.github.io/runtime/arduino/
 
 ##### 2. Run Ubuntu, and Arduino Port Setting
 Open Power Shell as Administrator
-1. Install usbipd di Windows
+1. Install usbipd on Windows
 ```
 winget install usbipd
 ```
